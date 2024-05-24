@@ -1,0 +1,28 @@
+body{
+
+  background-image: url("calculator.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  color: white; 
+
+}
+
+.container{
+  background-color: rgb(128, 128, 128, 75%);
+  border-style: double;
+  border-color: white;
+  width: auto;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 50px auto auto auto;
+}
+
+#output{
+
+  margin: auto;
+
+}
